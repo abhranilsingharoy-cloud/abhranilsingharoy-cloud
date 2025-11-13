@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 A bit about me
-- 💡 I’m an aspiring Software Development Engineer, driven by curiosity for **AI, Machine Learning, and Data-driven innovation**.  
+- 💡 I’m an aspiring Software Development Engineer, driven by curiosity for **AI, Machine Learning, IoT, Robotics, DIY electronics,Automation systems and Data-driven innovation**.  
 - 🖥️ I enjoy building projects, learning new technologies, and applying them to solve real-world problems.  
 - 🌱 Always open to opportunities to **learn, grow, and collaborate** with other tech enthusiasts.
 
