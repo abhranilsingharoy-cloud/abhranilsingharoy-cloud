@@ -15,7 +15,7 @@
 - 🌍 Contributor at **Hacktoberfest 2025** — actively contributing to open source projects.  
 - 🧩 Learning and building in **Web Development** and **AI/ML**.  
 - 🔭 Exploring new technologies to sharpen my **problem-solving and development skills**.  
-- ♟️ Strengthening skills in (Python, Java, C++, C#, JS, Html, TensorFlow, PyTorch, DSA and programming.
+- ♟️ Strengthening skills in (Python, Java, C++, C#, JS, Html, TensorFlow, PyTorch, DSA and programming).
 ---
 
 ## 🏅 Hacktoberfest Stats
