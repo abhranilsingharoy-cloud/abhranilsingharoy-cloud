@@ -71,17 +71,11 @@
 
 <br/>
 
-## 🎓 Licenses & Certifications
+## 📜 Certificates
 
 | Certification | Issuer |
 | ------------- | ------ |
-| **AWS Solutions Architecture Job Simulation** | Forage |
-| **Technology Consulting Job Simulation** | Accenture Australia (Forage) |
-| **Software Engineering Job Simulation** | Electronic Arts (Forage) |
 | **Google Gemini Certification** | Google |
-| **Cybersecurity Analyst Job Simulation** | Tata (Forage) |
-| **Data Visualization & GenAI Data Analytics** | Tata (Forage) |
-| **Data Visualisation: Empowering Business with Effective Insights** | Tata (Forage) |
 | **IT Fundamentals** | Cursa |
 | **TCS × e1133 Research Project** | Acknowledgement of Participation |
 | **HP Power Lab 2.0** | HP |
@@ -91,6 +85,19 @@
 | **Python for Data Science, AI** | Certificate |
 
 > *🖼️ Certificates available in JPG format upon request.*
+
+<br/>
+
+## 💼 Job Simulations
+
+| Job Simulation | Issuer |
+| -------------- | ------ |
+| **AWS Solutions Architecture Job Simulation** | Forage |
+| **Technology Consulting Job Simulation** | Accenture Australia (Forage) |
+| **Software Engineering Job Simulation** | Electronic Arts (Forage) |
+| **Cybersecurity Analyst Job Simulation** | Tata (Forage) |
+| **Data Visualization & GenAI Data Analytics Job Simulation** | Tata (Forage) |
+| **Data Visualisation: Empowering Business with Effective Insights** | Tata (Forage) |
 
 <br/>
 
