@@ -118,22 +118,27 @@
 
 ## 📜 Certificates
 
-| Certification | Issuer |
-| ------------- | ------ |
-| **Google Gemini Certification** | Google |
-| **IT Fundamentals** | Cursa |
-| **TCS × e1133 Research Project** | TCS & e1133 |
-| **HP Power Lab 2.0** | HP |
-| **Google Ads for Beginners** | Coursera |
-| **Ingest data with Microsoft Fabric** | Microsoft |
-| **Generative AI Studio** | Google |
-| **Python for Data Science, AI** | Intellipaat |
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQ4M291ZjFtY3AwMDlvYzZpMjY4OGpuZXEzMWU2cDVmbDkycTM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1MR64QhFQpafsPrwk/giphy.gif" width="200" alt="Certificates GIF" />
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <table>
+        <tr><th>Certification</th><th>Issuer</th></tr>
+        <tr><td><b>Google Gemini Certification</b></td><td>Google</td></tr>
+        <tr><td><b>IT Fundamentals</b></td><td>Cursa</td></tr>
+        <tr><td><b>TCS × e1133 Research Project</b></td><td>TCS & e1133</td></tr>
+        <tr><td><b>HP Power Lab 2.0</b></td><td>HP</td></tr>
+        <tr><td><b>Google Ads for Beginners</b></td><td>Coursera</td></tr>
+        <tr><td><b>Ingest data with Microsoft Fabric</b></td><td>Microsoft</td></tr>
+        <tr><td><b>Generative AI Studio</b></td><td>Google</td></tr>
+        <tr><td><b>Python for Data Science, AI</b></td><td>Intellipaat</td></tr>
+      </table>
+    </td>
+    <td align="center" valign="middle">
+      <br><br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQ4M291ZjFtY3AwMDlvYzZpMjY4OGpuZXEzMWU2cDVmbDkycTM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1MR64QhFQpafsPrwk/giphy.gif" width="250" alt="Certificates GIF" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
