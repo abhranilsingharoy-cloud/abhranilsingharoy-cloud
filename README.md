@@ -100,7 +100,7 @@
 
 | Job Simulation | Issuer |
 | -------------- | ------ |
-| **Solutions Architecture Job Simulation** | AWS Forage |
+| **Solutions Architecture Job Simulation** | AWS (Forage) |
 | **Technology Consulting Job Simulation** | Accenture Australia (Forage) |
 | **Software Engineering Job Simulation** | Electronic Arts (Forage) |
 | **Cybersecurity Analyst Job Simulation** | Tata (Forage) |
