@@ -52,6 +52,22 @@
 
 <br/>
 
+## 💼 Experience
+
+- **Social Media Marketing Intern** @ *InAmigos Foundation (IAF)*  
+  📅 `Jan 2026` | 📍 `Remote`  
+  *Focused on driving digital engagement and creating impactful content for social change.*
+
+- **Tech Intern** @ *RealThreadX™*  
+  📅 `Jan 2026` | 📍 `Remote`  
+  *Bridged the gap between technical agility and production-ready code.*
+
+- **Python Developer Intern** @ *Elevate Labs*  
+  📅 `Nov 2025 - Dec 2025` | 📍 `Remote`  
+  *Worked with Python programming to develop and maintain solutions.*
+
+<br/>
+
 ## 🎓 Licenses & Certifications
 
 | Certification | Issuer |
