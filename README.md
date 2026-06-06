@@ -31,7 +31,7 @@
 
 <br/>
 
-## 🧰 My Toolbox & Skills
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Toolbox & Skills
 
 <div align="center">
   <table>
@@ -54,7 +54,9 @@
 
 <br/>
 
-## 📈 Contribution Graph
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="30"> Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -70,7 +72,9 @@
 
 <br/>
 
-## 🏅 Hacktoberfest & Badges
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30"> Hacktoberfest & Badges
 
 <div align="center">
   <a href="https://holopin.io/@abhranilsingharoycloud">
@@ -80,7 +84,9 @@
 
 <br/>
 
-## 💼 Experience
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+## <img src="https://media.giphy.com/media/VbVKD8x7gA4R4Xqf64/giphy.gif" width="30"> Experience
 
 - **Social Media Marketing Intern** @ *InAmigos Foundation (IAF)*  
   📅 `Jan 2026` | 📍 `Remote`  
@@ -96,7 +102,9 @@
 
 <br/>
 
-## 📜 Certificates
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+## <img src="https://media.giphy.com/media/i7Y136t6xU5pP15rIV/giphy.gif" width="30"> Certificates
 
 | Certification | Issuer |
 | ------------- | ------ |
@@ -111,7 +119,9 @@
 
 <br/>
 
-## 💼 Job Simulations
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+## <img src="https://media.giphy.com/media/VbVKD8x7gA4R4Xqf64/giphy.gif" width="30"> Job Simulations
 
 | Job Simulation | Issuer |
 | -------------- | ------ |
