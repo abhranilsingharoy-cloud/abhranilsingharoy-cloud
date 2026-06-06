@@ -82,7 +82,7 @@
 | **Google Ads for Beginners** | Coursera |
 | **Ingest data with Microsoft Fabric** | Microsoft |
 | **Generative AI Studio** | Google |
-| **Python for Data Science, AI** | Certificate |
+| **Python for Data Science, AI** | Intellipaat |
 
 > *🖼️ Certificates available in JPG format upon request.*
 
@@ -92,7 +92,7 @@
 
 | Job Simulation | Issuer |
 | -------------- | ------ |
-| **AWS Solutions Architecture Job Simulation** | Forage |
+| **Solutions Architecture Job Simulation** | AWS Forage |
 | **Technology Consulting Job Simulation** | Accenture Australia (Forage) |
 | **Software Engineering Job Simulation** | Electronic Arts (Forage) |
 | **Cybersecurity Analyst Job Simulation** | Tata (Forage) |
