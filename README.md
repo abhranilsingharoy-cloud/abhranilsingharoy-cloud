@@ -170,5 +170,5 @@
 
 <div align="center">
   <br>
-  <i>“Building today, for the smarter AI-powered world of tomorrow.”</i>
+  <i>"Turning complex ideas into elegant, AI-driven realities. Building the future, one line of code at a time." ✦</i>
 </div>
