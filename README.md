@@ -3,6 +3,10 @@
 </h1>
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhranilsingharoy-cloud.abhranilsingharoy-cloud" alt="visitors" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Passionate+about+AI%2FML;Web+Development+Enthusiast;Building+Projects+%26+Skills" alt="Typing SVG" />
 </div>
 
@@ -33,14 +37,18 @@
 
 <br/>
 
-## 📈 GitHub Stats
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
 <br/>
+
+## 📝 Daily Dev Quote
+
 <div align="center">
-  <img src="https://metrics.lecoq.io/abhranilsingharoy-cloud" alt="GitHub Metrics" width="600" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
 
 <br/>
