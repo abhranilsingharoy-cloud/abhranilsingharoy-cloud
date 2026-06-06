@@ -30,22 +30,22 @@
 ## 🧰 My Toolbox & Skills
 
 <div align="center">
-
-### 🌐 Web Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-
-### 🤖 AI & Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><img src="https://img.shields.io/badge/-HTML5-222222?style=flat" alt="HTML5" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><img src="https://img.shields.io/badge/-CSS3-222222?style=flat" alt="CSS3" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" /><br><img src="https://img.shields.io/badge/-JavaScript-222222?style=flat" alt="JavaScript" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><img src="https://img.shields.io/badge/-Python-222222?style=flat" alt="Python" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /><br><img src="https://img.shields.io/badge/-Java-222222?style=flat" alt="Java" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /><br><img src="https://img.shields.io/badge/-C-222222?style=flat" alt="C" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br><img src="https://img.shields.io/badge/-C++-222222?style=flat" alt="C++" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><img src="https://img.shields.io/badge/-TensorFlow-222222?style=flat" alt="TensorFlow" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br><img src="https://img.shields.io/badge/-PyTorch-222222?style=flat" alt="PyTorch" /></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
