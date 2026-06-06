@@ -163,7 +163,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br/><br/>
-  <img src="https://media.giphy.com/media/Or0TT9cxblfWsWMBcU/giphy.gif" alt="Sniffing GIF" width="100" />
+  <img src="https://media.giphy.com/media/Or0TT9cxblfWsWMBcU/giphy.gif" alt="Sniffing GIF" width="200" />
 </div>
 
 <br/>
