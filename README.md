@@ -16,14 +16,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="3D coding gif">
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ## 🧠 A Bit About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/coder.gif" width="300" alt="Coder animation" />
 
 - 💡 **Curious Learner**: Deeply interested in **AI, Machine Learning, IoT, Robotics, DIY Electronics, Automation**, and **Data-driven innovation**.
 - 🖥️ **Builder**: I enjoy turning ideas into reality by building projects and applying modern technologies to solve real-world problems.
 - 🌱 **Collaborator**: Always open to opportunities to learn, grow, and collaborate with other tech enthusiasts.
 - 🌍 **Open Source**: Actively contributing to open-source projects, including **Hacktoberfest 2025**.
+
+<br clear="both"/>
 
 <br/>
 
@@ -123,6 +127,8 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-4722ffc4-ca98-4447-bcba-bebd07e86e3f.gif" width="60" alt="3D Waving Hand" />
+  <br/>
   <a href="https://www.linkedin.com/in/abhranil-singha-roy-a1b488371">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
