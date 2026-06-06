@@ -29,11 +29,24 @@
 
 ## 🧰 My Toolbox & Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,tensorflow,pytorch" alt="Skills" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><b>HTML5</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><b>CSS3</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" /><br><b>JavaScript</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><b>Python</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /><br><b>Java</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /><br><b>C</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br><b>C++</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><b>TensorFlow</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br><b>PyTorch</b></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
