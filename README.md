@@ -170,5 +170,5 @@
 
 <div align="center">
   <br>
-  <i>"Turning complex ideas into elegant, AI-driven realities. Building the future, one line of code at a time." ✦</i>
+  <i>“Never give up on something that you can’t go a day without thinking about.”</i>
 </div>
