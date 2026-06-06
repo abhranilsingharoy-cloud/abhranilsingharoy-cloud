@@ -36,8 +36,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhranilsingharoy-cloud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhranilsingharoy-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://metrics.lecoq.io/abhranilsingharoy-cloud" alt="GitHub Metrics" width="600" />
 </div>
 
 <br/>
