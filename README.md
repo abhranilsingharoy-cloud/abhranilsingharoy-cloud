@@ -30,22 +30,22 @@
 ## 🧰 My Toolbox & Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><b>HTML5</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><b>CSS3</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" /><br><b>JavaScript</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><b>Python</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /><br><b>Java</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /><br><b>C</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br><b>C++</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><b>TensorFlow</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br><b>PyTorch</b></td>
-      <td></td>
-    </tr>
-  </table>
+
+### 🌐 Web Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+
 </div>
 
 <br/>
