@@ -85,7 +85,7 @@
 | ------------- | ------ |
 | **Google Gemini Certification** | Google |
 | **IT Fundamentals** | Cursa |
-| **TCS × e1133 Research Project** | Acknowledgement of Participation |
+| **TCS × e1133 Research Project** | TCS & e1133 |
 | **HP Power Lab 2.0** | HP |
 | **Google Ads for Beginners** | Coursera |
 | **Ingest data with Microsoft Fabric** | Microsoft |
