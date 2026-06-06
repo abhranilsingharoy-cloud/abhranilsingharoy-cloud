@@ -118,6 +118,8 @@
 
 ## 📜 Certificates
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQ4M291ZjFtY3AwMDlvYzZpMjY4OGpuZXEzMWU2cDVmbDkycTM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1MR64QhFQpafsPrwk/giphy.gif" width="250" alt="Certificates GIF" />
+
 | Certification | Issuer |
 | ------------- | ------ |
 | **Google Gemini Certification** | Google |
