@@ -56,7 +56,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="30"> Contribution Graph
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" alt="Gears" />
+</div>
+
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -86,7 +90,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/VbVKD8x7gA4R4Xqf64/giphy.gif" width="30"> Experience
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd847-1940-45ce-8fd1-c11640fb038d.gif" width="120" alt="3D Shapes" />
+</div>
+
+## 💼 Experience
 
 - **Social Media Marketing Intern** @ *InAmigos Foundation (IAF)*  
   📅 `Jan 2026` | 📍 `Remote`  
@@ -104,7 +112,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/i7Y136t6xU5pP15rIV/giphy.gif" width="30"> Certificates
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284144-8846c822-26cb-40dd-b7ee-84cb2632bba4.gif" width="120" alt="3D Sphere" />
+</div>
+
+## 📜 Certificates
 
 | Certification | Issuer |
 | ------------- | ------ |
@@ -121,7 +133,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/VbVKD8x7gA4R4Xqf64/giphy.gif" width="30"> Job Simulations
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-3d3a0e10-b98a-49c5-8472-fb59f6d4d166.gif" width="120" alt="3D Cube" />
+</div>
+
+## 💼 Job Simulations
 
 | Job Simulation | Issuer |
 | -------------- | ------ |
