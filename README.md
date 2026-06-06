@@ -135,7 +135,7 @@
     </td>
     <td align="center" valign="middle">
       <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQ4M291ZjFtY3AwMDlvYzZpMjY4OGpuZXEzMWU2cDVmbDkycTM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1MR64QhFQpafsPrwk/giphy.gif" width="250" alt="Certificates GIF" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQ4M291ZjFtY3AwMDlvYzZpMjY4OGpuZXEzMWU2cDVmbDkycTM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1MR64QhFQpafsPrwk/giphy.gif" width="250" alt="Certificates GIF" />
     </td>
   </tr>
 </table>
