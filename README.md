@@ -62,8 +62,14 @@
 | **Google Gemini Certification** | Google |
 | **Cybersecurity Analyst Job Simulation** | Tata (Forage) |
 | **Data Visualization & GenAI Data Analytics** | Tata (Forage) |
+| **Data Visualisation: Empowering Business with Effective Insights** | Tata (Forage) |
 | **IT Fundamentals** | Cursa |
 | **TCS × e1133 Research Project** | Acknowledgement of Participation |
+| **HP Power Lab 2.0** | HP |
+| **Google Ads for Beginners** | Coursera |
+| **Ingest data with Microsoft Fabric** | Microsoft |
+| **Generative AI Studio** | Google |
+| **Python for Data Science, AI** | Certificate |
 
 > *🖼️ Certificates available in JPG format upon request.*
 
