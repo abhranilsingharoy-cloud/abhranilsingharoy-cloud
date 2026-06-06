@@ -153,8 +153,6 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/c61efa50b6b4487fe8d5080b1fa0e89649ad4ee9e3171e96230155eb97f136aa/68747470733a2f2f636c696e74626972642e636f6d2f696d616765732f706f7374732f323031372f676966732d322e676966" alt="Animation" />
-  <br/>
   <a href="https://www.linkedin.com/in/abhranil-singha-roy-a1b488371">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -164,6 +162,8 @@
   <a href="mailto:abhranilsingharoy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br/><br/>
+  <img src="https://camo.githubusercontent.com/c61efa50b6b4487fe8d5080b1fa0e89649ad4ee9e3171e96230155eb97f136aa/68747470733a2f2f636c696e74626972642e636f6d2f696d616765732f706f7374732f323031372f676966732d322e676966" alt="Animation" />
 </div>
 
 <br/>
