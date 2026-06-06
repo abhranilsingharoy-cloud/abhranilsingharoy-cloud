@@ -92,8 +92,6 @@
 | **Generative AI Studio** | Google |
 | **Python for Data Science, AI** | Intellipaat |
 
-> *🖼️ Certificates available in JPG format upon request.*
-
 <br/>
 
 ## 💼 Job Simulations
