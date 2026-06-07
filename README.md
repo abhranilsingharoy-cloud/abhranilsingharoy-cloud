@@ -63,7 +63,7 @@
 ## 📊 Languages Used in Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=abhranilsingharoy-cloud&theme=tokyonight" alt="Top Languages" />
 </div>
 <br/>
 
