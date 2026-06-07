@@ -60,12 +60,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" alt="Gears" />
 </div>
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats & Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
-
 <br/>
 
 ## 📝 Daily Dev Quote
