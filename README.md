@@ -60,10 +60,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" alt="Gears" />
 </div>
 
-## 📊 Languages Used in Repositories
+## 💻 Terminal Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/abhranilsingharoy-cloud?template=classic&base=languages&config_theme=tokyonight" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&width=800&height=120&lines=%3E+Initializing+AI+models...;%3E+Loading+machine+learning+datasets...;%3E+Compiling+neural+networks...;%3E+System+Ready!+Hello,+World!" alt="Animated Coding Banner" />
 </div>
 <br/>
 
