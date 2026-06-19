@@ -26,7 +26,6 @@ I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast,
 - 🖥️ **Builder**: Enjoy building projects and applying modern technologies to solve real-world problems.
 - 🌍 **Open Source**: Actively contributing to open-source projects, including **Hacktoberfest**.
 - 🌱 **Collaborator**: Always open to opportunities to learn, grow, and collaborate with other tech enthusiasts.
-- 💬 Ask me about **Python, Java, C++, AI/ML, or Web Development**.
 
 <br clear="both"/>
 
