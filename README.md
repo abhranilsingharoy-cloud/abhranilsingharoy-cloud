@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f0f24,50:8a2be2,100:ff007f&height=230&section=header&text=Abhranil%20Singha%20Roy&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A33F0,100:00C4FF&height=230&section=header&text=Abhranil%20Singha%20Roy&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=a855f7&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Abhranil+%F0%9F%91%8B;Aspiring+SDE+%F0%9F%9A%80;Passionate+about+AI%2FML+%F0%9F%A4%96;Web+Dev+Enthusiast+%F0%9F%8C%90;Building+Projects+%26+Skills+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Abhranil+%F0%9F%91%8B;Aspiring+SDE+%F0%9F%9A%80;Passionate+about+AI%2FML+%F0%9F%A4%96;Web+Dev+Enthusiast+%F0%9F%8C%90;Building+Projects+%26+Skills+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhranilsingharoy-cloud&label=Profile+Views&color=a855f7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhranilsingharoy-cloud&label=Profile+Views&color=2196F3&style=flat-square" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20%E2%9C%85-brightgreen?style=flat-square" alt="Open To Work" />
 </div>
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding Illustration" width="380" src="./assets/dev_illustration.png"/>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast, deeply interested in AI, Machine Learning, and turning ideas into reality.
 
@@ -106,9 +106,9 @@ I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=tokyonight">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
   </picture>
 </div>
 
@@ -118,35 +118,35 @@ I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=tokyonight">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=tokyonight" height="175" alt="GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=github_dark" height="175" alt="GitHub Stats"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&border_radius=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=github-dark-blue&hide_border=true&border_radius=10">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=github&hide_border=true&border_radius=10">
-    <img src="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="Streak Stats"/>
+    <img src="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=github-dark-blue&hide_border=true&border_radius=10" height="175" alt="Streak Stats"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=tokyonight">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=tokyonight" height="175" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=github_dark" height="175" alt="Repos Per Language"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=tokyonight">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=tokyonight" height="175" alt="Most Commit Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=github_dark" height="175" alt="Most Commit Language"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=tokyonight&utcOffset=5.5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=github_dark&utcOffset=5.5">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=github&utcOffset=5.5">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=tokyonight&utcOffset=5.5" height="175" alt="Productive Time"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time"/>
   </picture>
 </div>
 
@@ -156,9 +156,9 @@ I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=github-light&hide_border=true&color=0969da&line=0969da&point=57606a&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
   </picture>
 </div>
 
@@ -223,5 +223,5 @@ I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast,
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff007f,50:8a2be2,100:1f0f24&height=130&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:1A33F0,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 </div>
