@@ -77,14 +77,26 @@ I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast,
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-### 🎨 Web Development
+### 🎨 Frontend & Web Tech
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
+![WebAssembly](https://skillicons.dev/icons?i=wasm)
 
-### 🤖 AI & Machine Learning
+### 🤖 AI, Data & Backend
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+### 🧰 Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
