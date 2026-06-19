@@ -1,81 +1,156 @@
-<h1 align="center">
-  Hi there, I'm Abhranil Singha Roy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhranilsingharoy-cloud.abhranilsingharoy-cloud" alt="visitors" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A33F0,100:00C4FF&height=230&section=header&text=Abhranil%20Singha%20Roy&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Passionate+about+AI%2FML;Web+Development+Enthusiast;Building+Projects+%26+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Abhranil+%F0%9F%91%8B;Aspiring+SDE+%F0%9F%9A%80;Passionate+about+AI%2FML+%F0%9F%A4%96;Web+Dev+Enthusiast+%F0%9F%8C%90;Building+Projects+%26+Skills+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="3D coding gif">
+  <img src="https://komarev.com/ghpvc/?username=abhranilsingharoy-cloud&label=Profile+Views&color=2196F3&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work%20%E2%9C%85-brightgreen?style=flat-square" alt="Open To Work" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## 🧠 A Bit About Me
+## 🧑‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/coder.gif" width="300" alt="Coder animation" />
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 💡 **Curious Learner**: Deeply interested in **AI, Machine Learning, IoT, Robotics, DIY Electronics, Automation**, and **Data-driven innovation**.
-- 🖥️ **Builder**: I enjoy turning ideas into reality by building projects and applying modern technologies to solve real-world problems.
+I'm a passionate **Aspiring Software Development Engineer** and tech enthusiast, deeply interested in AI, Machine Learning, and turning ideas into reality.
+
+- 💡 **Curious Learner**: Exploring **AI, ML, IoT, Robotics, DIY Electronics, Automation**, and **Data-driven innovation**.
+- 🖥️ **Builder**: Enjoy building projects and applying modern technologies to solve real-world problems.
+- 🌍 **Open Source**: Actively contributing to open-source projects, including **Hacktoberfest**.
 - 🌱 **Collaborator**: Always open to opportunities to learn, grow, and collaborate with other tech enthusiasts.
-- 🌍 **Open Source**: Actively contributing to open-source projects, including **Hacktoberfest 2025**.
+- 💬 Ask me about **Python, Java, C++, AI/ML, or Web Development**.
 
 <br clear="both"/>
 
-<br/>
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Toolbox & Skills
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><img src="https://img.shields.io/badge/-HTML5-222222?style=flat" alt="HTML5" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><img src="https://img.shields.io/badge/-CSS3-222222?style=flat" alt="CSS3" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" /><br><img src="https://img.shields.io/badge/-JavaScript-222222?style=flat" alt="JavaScript" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><img src="https://img.shields.io/badge/-Python-222222?style=flat" alt="Python" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" /><br><img src="https://img.shields.io/badge/-Java-222222?style=flat" alt="Java" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /><br><img src="https://img.shields.io/badge/-C-222222?style=flat" alt="C" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br><img src="https://img.shields.io/badge/-C++-222222?style=flat" alt="C++" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><img src="https://img.shields.io/badge/-TensorFlow-222222?style=flat" alt="TensorFlow" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br><img src="https://img.shields.io/badge/-PyTorch-222222?style=flat" alt="PyTorch" /></td>
-      <td></td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+## 🔥 Experience & Job Simulations
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" alt="Gears" />
+
+| 💼 Experience | 🚀 Job Simulations |
+|:-------------|:-------------------|
+| **Python Developer Intern** <br>@ Elevate Labs | **Solutions Architecture** <br>@ AWS (Forage) |
+| **Tech Intern** <br>@ RealThreadX™ | **Technology Consulting** <br>@ Accenture Australia (Forage) |
+| **Social Media Marketing Intern** <br>@ InAmigos Foundation | **Software Engineering** <br>@ Electronic Arts (Forage) |
+| | **Cybersecurity Analyst** <br>@ Tata (Forage) |
+| | **Data Visualization & GenAI** <br>@ Tata (Forage) |
+
 </div>
 
-## 💻 Terminal Activity
+---
+
+## 📜 Certifications
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&width=800&height=120&lines=%3E+Initializing+AI+models...;%3E+Loading+machine+learning+datasets...;%3E+Compiling+neural+networks...;%3E+System+Ready!+Hello,+World!" alt="Animated Coding Banner" />
-</div>
-<br/>
 
-## 📝 Daily Dev Quote
+| 🏆 Certification | 🏢 Issuer |
+|:----------------|:----------|
+| **Google Gemini Certification** | Google |
+| **Generative AI Studio** | Google |
+| **Ingest data with Microsoft Fabric** | Microsoft |
+| **Python for Data Science, AI** | Intellipaat |
+| **TCS × e1133 Research Project** | TCS & e1133 |
+| **HP Power Lab 2.0** | HP |
+| **Google Ads for Beginners** | Coursera |
+| **IT Fundamentals** | Cursa |
+
+</div>
+
+---
+
+## 🛠️ My Tech Arsenal
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+
+### 👨‍💻 Programming Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### 🎨 Web Development
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+## 🏆 GitHub Highlights
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhranilsingharoy-cloud&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+  </picture>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhranilsingharoy-cloud&theme=github_dark" height="175" alt="GitHub Stats"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=github-dark-blue&hide_border=true&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=github&hide_border=true&border_radius=10">
+    <img src="https://streak-stats.demolab.com?user=abhranilsingharoy-cloud&theme=github-dark-blue&hide_border=true&border_radius=10" height="175" alt="Streak Stats"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhranilsingharoy-cloud&theme=github_dark" height="175" alt="Repos Per Language"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhranilsingharoy-cloud&theme=github_dark" height="175" alt="Most Commit Language"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=github_dark&utcOffset=5.5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=github&utcOffset=5.5">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhranilsingharoy-cloud&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time"/>
+  </picture>
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=github-light&hide_border=true&color=0969da&line=0969da&point=57606a&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhranilsingharoy-cloud&theme=github-dark&bg_color=0d1117&hide_border=true&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&area_color=1A33F0" alt="GitHub Activity Graph"/>
+  </picture>
+</div>
+
+---
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30"> Hacktoberfest & Badges
 
@@ -85,100 +160,56 @@
   </a>
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd847-1940-45ce-8fd1-c11640fb038d.gif" width="120" alt="3D Shapes" />
-</div>
-
-## 💼 Experience
-
-- **Social Media Marketing Intern** @ *InAmigos Foundation (IAF)*  
-  📅 `Jan 2026` | 📍 `Remote`  
-  *Focused on driving digital engagement and creating impactful content for social change.*
-
-- **Tech Intern** @ *RealThreadX™*  
-  📅 `Jan 2026` | 📍 `Remote`  
-  *Bridged the gap between technical agility and production-ready code.*
-
-- **Python Developer Intern** @ *Elevate Labs*  
-  📅 `Nov 2025 - Dec 2025` | 📍 `Remote`  
-  *Worked with Python programming to develop and maintain solutions.*
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+## 💬 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284144-8846c822-26cb-40dd-b7ee-84cb2632bba4.gif" width="120" alt="3D Sphere" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  </picture>
 </div>
 
-## 📜 Certificates
+---
 
-<table>
-  <tr>
-    <td valign="top">
-      <table>
-        <tr><th>Certification</th><th>Issuer</th></tr>
-        <tr><td><b>Google Gemini Certification</b></td><td>Google</td></tr>
-        <tr><td><b>IT Fundamentals</b></td><td>Cursa</td></tr>
-        <tr><td><b>TCS × e1133 Research Project</b></td><td>TCS & e1133</td></tr>
-        <tr><td><b>HP Power Lab 2.0</b></td><td>HP</td></tr>
-        <tr><td><b>Google Ads for Beginners</b></td><td>Coursera</td></tr>
-        <tr><td><b>Ingest data with Microsoft Fabric</b></td><td>Microsoft</td></tr>
-        <tr><td><b>Generative AI Studio</b></td><td>Google</td></tr>
-        <tr><td><b>Python for Data Science, AI</b></td><td>Intellipaat</td></tr>
-      </table>
-    </td>
-    <td align="center" valign="middle">
-      <br><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQ4M291ZjFtY3AwMDlvYzZpMjY4OGpuZXEzMWU2cDVmbDkycTM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1MR64QhFQpafsPrwk/giphy.gif" width="250" alt="Certificates GIF" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-3d3a0e10-b98a-49c5-8472-fb59f6d4d166.gif" width="120" alt="3D Cube" />
-</div>
-
-## 💼 Job Simulations
-
-| Job Simulation | Issuer |
-| -------------- | ------ |
-| **Solutions Architecture Job Simulation** | AWS (Forage) |
-| **Technology Consulting Job Simulation** | Accenture Australia (Forage) |
-| **Software Engineering Job Simulation** | Electronic Arts (Forage) |
-| **Cybersecurity Analyst Job Simulation** | Tata (Forage) |
-| **Data Visualization & GenAI Data Analytics Job Simulation** | Tata (Forage) |
-| **Data Visualisation: Empowering Business with Effective Insights** | Tata (Forage) |
-
-<br/>
-
-## 🌐 Let's Connect!
+## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhranil-singha-roy-a1b488371">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/abhranilsingharoy-cloud">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="mailto:abhranilsingharoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <br/><br/>
-  <img src="https://media.giphy.com/media/Or0TT9cxblfWsWMBcU/giphy.gif" alt="Sniffing GIF" width="200" />
+  <img src="https://media.giphy.com/media/Or0TT9cxblfWsWMBcU/giphy.gif" alt="Sniffing Dragon GIF" width="200" />
 </div>
 
 <br/>
 
+---
+
+## 🌍 3D Contribution World
+
+> _My GitHub contributions rendered as a 3D animated world — the taller the towers, the more I coded!_
+
 <div align="center">
-  <br>
-  <i>“Never give up on something that you can’t go a day without thinking about.”</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhranilsingharoy-cloud/abhranilsingharoy-cloud/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhranilsingharoy-cloud/abhranilsingharoy-cloud/main/profile-3d-contrib/profile-green.svg">
+    <img src="https://raw.githubusercontent.com/abhranilsingharoy-cloud/abhranilsingharoy-cloud/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:1A33F0,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 </div>
